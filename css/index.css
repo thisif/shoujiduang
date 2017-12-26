@@ -903,7 +903,7 @@ footer{
 	height: 1.4rem;
 	position: fixed;
 	z-index: 9;
-	top: 16.4rem;
+	bottom:0;
 	background:#fff;
 	padding-top: 0.1rem;
 }
