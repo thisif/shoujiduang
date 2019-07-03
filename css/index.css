@@ -45,7 +45,7 @@ div.flash{
 	padding-top: 1rem;
 }
 div.flash .swiper-container img{
-	width: 12rem;
+	width: 100%;
 	height: 3.12rem;
 }
 /*轮播图结束*/
